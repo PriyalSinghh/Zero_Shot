@@ -1,0 +1,26 @@
+# Core Libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine Learning and Deep Learning
+scikit-learn
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# ECG Signal Processing
+wfdb
+
+# Visualization and Utilities
+jupyter
+notebook
+tqdm
+
+# Optional: For advanced signal processing
+biosppy
+pywt
